@@ -17,12 +17,11 @@
 
 import os 
 import reda
-
-os.chdir(r'E:\Padova\Z_Database\db_git\D_reda_import\tests\try-reda-master')
+os.chdir(r'E:\Padova\Z_Database\db_git\D_reda_import\agrogeophy-data\try-reda-master')
 import pandas as pd
 pd.set_option('display.width', 1000)
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 import reda.utils.mpl
 plt, mpl = reda.utils.mpl.setup()
 
@@ -137,7 +136,7 @@ fig = RH.plot_histograms_extra_dims(
     subquery='timestep in [0, 3, 6]'
 )
 # print(fig.get_figwidth(), fig.get_figheight())
-fig.savefig('histogram.png', dpi=300)
+# fig.savefig('histogram.png', dpi=300)
 
 
 # ## Plotting Pseudosections
@@ -198,7 +197,7 @@ fig, ax = TS.plot_quadpole_evolution(
 
 
 obj.print_data_journal()
-
+obj.print_data_journal_2file()
 
 # In[ ]:
 
