@@ -1,0 +1,16 @@
+
+--- Data Journal Start ---
+2020-03-19 16:56:56.765280
+Data was imported from file pygimli_paper_data000.ohm (741 data points)
+Data was imported from file pygimli_paper_data010.ohm (741 data points)
+Data was imported from file pygimli_paper_data020.ohm (741 data points)
+Data was imported from file pygimli_paper_data030.ohm (741 data points)
+Data was imported from file pygimli_paper_data040.ohm (741 data points)
+Data was imported from file pygimli_paper_data050.ohm (741 data points)
+Data was imported from file pygimli_paper_data060.ohm (741 data points)
+Data was imported from file pygimli_paper_data070.ohm (741 data points)
+Data was imported from file pygimli_paper_data080.ohm (741 data points)
+Data was imported from file pygimli_paper_data090.ohm (741 data points)
+A filter was applied with query "a > 10 and a < 20 and k > 1000". In total 468 records were removed
+--- Data Journal End ---
+
