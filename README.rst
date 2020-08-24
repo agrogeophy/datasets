@@ -7,7 +7,7 @@ About
 
 What can you find?
 ******************
-- A list of agrogeophysical datasets references
+- A list of agrogeophysical datasets references;
 - When applicable journal metadata files (*.jnl) are produced using REDA (https://github.com/geophysics-ubonn/reda) and returned to the agrogeophysical catalog database.
 
 What won't you find here?
