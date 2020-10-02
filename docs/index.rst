@@ -13,7 +13,9 @@ Electrical Data Format
    :caption: Contents:
    
    getting-started
-   the container
+   howtocite
+   data-importer
+   benchmark
    glossary
    
 
