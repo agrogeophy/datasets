@@ -43,7 +43,7 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.mathjax',
     'numpydoc',
-#    'nbsphinx',
+    # 'nbsphinx',
     'sphinx_nbexamples',
 ]
 
@@ -121,7 +121,7 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'growingdoc'
+htmlhelp_basename = 'Agrogeophy-datasets-doc'
 numfig = True
 
 # -- Options for LaTeX output ------------------------------------------------
