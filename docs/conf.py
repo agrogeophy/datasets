@@ -19,7 +19,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Agrogeophy-datasets'
+project = 'agrogeophy-datasets'
 copyright = 'MIT License'
 author = 'Agrogeophy community'
 
