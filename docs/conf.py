@@ -44,7 +44,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'numpydoc',
     # 'nbsphinx',
-    'sphinx_nbexamples',
+    # 'sphinx_nbexamples',
 ]
 
 numpydoc_show_class_members = False
