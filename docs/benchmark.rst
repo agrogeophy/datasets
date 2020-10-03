@@ -4,9 +4,12 @@ Databench
 
  Here we present benchmark datasets of topic of high scientific interest for agrogeophysicists:
 
- data-driven Cole-Cole root-soil-plant interactions
- RWU model of time lapse inversion
+Data-driven Cole-Cole parameters for root-soil-plant interactions experiments
+-----------------------------------------------------------------------------
 
+ 
+Pedophysical relationships
+---------------------------
 
-
-
+Time lapse inversion of RWU
+---------------------------
