@@ -14,8 +14,7 @@ agrogeophysic-datasets
    
    getting-started
    howtocite
-   data-importer
-   		data-linter
+   data-management
    benchmark
    glossary
    

@@ -12,3 +12,14 @@ Data package linter
 -------------------
 
 
+Processus for databench
+=======================
+
+Data harmonisation
+------------------
+
+Data agregation
+---------------
+
+Data visualisation
+------------------
