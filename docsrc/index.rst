@@ -16,6 +16,7 @@ agrogeophysic-datasets
    howtocite
    data-management
    benchmark
+   utilities
    glossary
    
 
