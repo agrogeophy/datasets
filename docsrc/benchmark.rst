@@ -20,7 +20,7 @@ Pedophysical relationships
 
 Survey metatdata:
 - soil type
-- field/lab
+- field//lab
 - raw soil/vegetated soil
 - saturated/unsaturated
 - type of fitting model
