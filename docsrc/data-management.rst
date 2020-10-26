@@ -1,9 +1,16 @@
-Data importer
-=============
+Metadata harvester
+==================
 
 
-File-level Metadata harvesting 
-------------------------------
+Project-level Metadata 
+----------------------
+
+File-level Metadata 
+-------------------
+
+
+Data management
+===============
 
 Workflow for preparing dataset
 ------------------------------
@@ -12,14 +19,3 @@ Data package linter
 -------------------
 
 
-Processus for databench
-=======================
-
-Data harmonisation
-------------------
-
-Data agregation
----------------
-
-Data visualisation
-------------------
