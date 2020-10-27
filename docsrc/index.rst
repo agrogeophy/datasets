@@ -15,7 +15,8 @@ agrogeophysic-datasets
    getting-started
    howtocite
    data-management
-   benchmark
+   data-benchmark
+   code-benchmark
    utilities
    glossary
    

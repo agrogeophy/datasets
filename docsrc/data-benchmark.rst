@@ -1,6 +1,3 @@
-
-
-
 Databench
 =========
 
@@ -43,15 +40,3 @@ Data format:
 
 - 1st collumn: ECb in S/m
 - 2nd collumn: SWC in cm3/cm-3 
-
-
-Codebench
-=========
-
-Here we present a simple model dataset created after a RWU simulation:
-
-Time lapse inversion of RWU
----------------------------
-
-Test of different inversion codes and approaches to describe the time-lapse evolution of ER/soil water content. 
-
