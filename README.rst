@@ -8,8 +8,9 @@ About
 What can you find?
 ******************
 - Some guidance as to how to prepare a dataset for the catalog (workflow and a JSON-formatted metadata.txt file following metadata standards);
-- Thematic agrogeophysical datasets references;
-- When applicable journal metadata files (*.jnl) are produced using REDA (https://github.com/geophysics-ubonn/reda) and returned to the agrogeophysical catalog database.
+- Thematic agrogeophysical datasets packaged with:
+    - associated metadata (biotic, abiotic, survey, quality assessement, ...)
+    - when applicable a journal metadata files (*.jnl)  produced using REDA (https://github.com/geophysics-ubonn/reda)
 
 What won't you find here?
 *************************
