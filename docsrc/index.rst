@@ -19,7 +19,7 @@ agrogeophysic-datasets
    code-benchmark
    utilities
    glossary
-   
+   contributors
 
 
 

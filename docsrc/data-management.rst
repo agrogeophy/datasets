@@ -4,7 +4,7 @@ Metadata harvester
 
 Project-level Metadata 
 ----------------------
-The **Project-level Metadata** lvel is related to the main CAGS interface website from which metadata are harvested through the online submission form. It collects metadata (derived and expended from Dublin Core metadata) which incorporates a number of descriptive and resource discovery focused elements describing either a scientific communication, a notebook and a dataset independently or jointly. 
+The **Project-level Metadata** level is related to the main CAGS interface website from which metadata are harvested through the online submission form. It collects metadata (derived and expended from Dublin Core metadata) which incorporates a number of descriptive and resource discovery focused elements describing either a scientific communication, a notebook and a dataset independently or jointly. 
 
 File-level Metadata 
 -------------------
