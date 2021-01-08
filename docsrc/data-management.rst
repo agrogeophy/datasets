@@ -14,6 +14,11 @@ Generate suitable metadata from user input and write this metadata into the dire
 
 `geophysical Metadata Management using a Juypter Notebook <https://github.com/m-weigand/geometadp.git>`_
 
+.. _importing:
+.. figure:: images/geometadata.png
+    :alt: `geophysical Metadata Management using a Juypter Notebook <https://github.com/m-weigand/geometadp.git>`_
+    :scale: 60 %
+
 Data management
 ===============
 
