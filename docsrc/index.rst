@@ -13,11 +13,10 @@ agrogeophysic-datasets
    :caption: Contents:
    
    getting-started
-   howtocite
    data-management
    data-benchmark
    code-benchmark
-   utilities
+   howtocite
    glossary
    contributors
 
