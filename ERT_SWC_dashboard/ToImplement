@@ -1,0 +1,30 @@
+Readme
+
+References
+
+Study_id
+DOI
+First Author
+Year
+Title
+
+Metadata
+
+  Drying, wetting
+  Dry --> Wet
+  Wet --> Dry
+
+Layer
+
+  Layer id
+
+Data
+
+  / WC
+  / EC, ER raw
+  / WC unit
+  / ER unit
+  / EC
+
+
+DropdownList
