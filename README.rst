@@ -3,16 +3,16 @@
 
 About
 -----
-**Agrogeophy-data is part of the agrogeophysical catalog website:** `<http://geo.geoscienze.unipd.it/growingwebsite/map_catalog>`__ 
+**Agrogeophy-data** is part of the agrogeophysical catalog website: `<agrogeophy.github.io/catalog/>`__ 
 
 What can you find?
 ******************
 - Some guidance as to how to prepare a dataset for the catalog (workflow and a JSON-formatted metadata.txt file following our metadata standards);
     - instruction to `prepare a agrogeophysical dataset <https://agrogeophy.github.io/datasets/data-management.html#workflow-for-preparing-dataset>`_
-    - `geophysical Metadata Management using a Juypter Notebook <https://github.com/m-weigand/geometadp.git>`_
 - Thematic agrogeophysical datasets packaged with:
     - associated metadata (biotic, abiotic, survey, quality assessement, ...)
-    - when applicable a journal metadata files (*.jnl)  produced using REDA (https://github.com/geophysics-ubonn/reda)
+    
+    Example: https://share.streamlit.io/benjmy/ert_swc_board/main/app.py
 
 
 What won't you find here?
