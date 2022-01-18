@@ -7,12 +7,14 @@ About
 
 What can you find?
 ******************
+
 - Some guidance as to how to prepare a dataset for the catalog (workflow and a JSON-formatted metadata.txt file following our metadata standards);
-    - instruction to `prepare a agrogeophysical dataset <https://agrogeophy.github.io/datasets/data-management.html#workflow-for-preparing-dataset>`_
-- Thematic agrogeophysical datasets packaged with:
-    - associated metadata (biotic, abiotic, survey, quality assessement, ...)
+
+Instruction to `prepare a agrogeophysical dataset <https://agrogeophy.github.io/datasets/data-management.html#workflow-for-preparing-dataset>`_
+
+- Thematic agrogeophysical datasets packaged with associated metadata (biotic, abiotic, survey, quality assessement, ...)
     
-    Example: https://share.streamlit.io/benjmy/ert_swc_board/main/app.py
+Pedophysical data : https://share.streamlit.io/benjmy/ert_swc_board/main/app.py
 
 
 What won't you find here?
