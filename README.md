@@ -21,7 +21,7 @@ Instruction to [prepare a agrogeophysical dataset](https://agrogeophy.github.io/
 What won't you find here? At this point we do not provide user a data storage facility. 
 
 
-## Thematic apps:
+## Thematic apps 
 
 <img src="https://latex.codecogs.com/svg.image?\rho&space;=&space;f&space;(\theta)" title="\rho = f (\theta)" /> [![Pedophysical data app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjmy/ert_swc_board/main/app.py)
 
